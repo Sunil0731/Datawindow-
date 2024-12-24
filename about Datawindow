@@ -1,2 +1,14 @@
-this is datawindow 
-today we are adding some dw feature
+today we are adding funcation 
+
+String ls_name = "sunil"
+string ls_lasname = "Prajapati"
+
+here we creating funcation 
+add(ls_name,ls_lasname)
+
+
+string ls_fullname = ls_name + ls_lasname
+
+return ls_fullname 
+
+
